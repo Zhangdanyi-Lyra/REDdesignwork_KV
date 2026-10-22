@@ -1,0 +1,483 @@
+[
+  {
+    "id": "object-01-stool",
+    "label": "塑料凳",
+    "english": "Stool",
+    "category": "object",
+    "asset": "scene:object-01-stool-gray",
+    "colorAsset": "scene:object-01-stool-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_01-stool_gray.webp",
+      "color": "object_01-stool_color.webp"
+    }
+  },
+  {
+    "id": "object-02-cup-person",
+    "label": "杯中人",
+    "english": "Cup Person",
+    "category": "object",
+    "asset": "scene:object-02-cup-person-gray",
+    "colorAsset": "scene:object-02-cup-person-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_02-cup-person_gray.webp",
+      "color": "object_02-cup-person_color.webp"
+    }
+  },
+  {
+    "id": "object-03-round-cat",
+    "label": "圆滚猫",
+    "english": "Round Cat",
+    "category": "object",
+    "asset": "scene:object-03-round-cat-gray",
+    "colorAsset": "scene:object-03-round-cat-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_03-round-cat_gray.webp",
+      "color": "object_03-round-cat_color.webp"
+    }
+  },
+  {
+    "id": "object-04-borf-creature",
+    "label": "小怪兽",
+    "english": "Borf Creature",
+    "category": "object",
+    "asset": "scene:object-04-borf-creature-gray",
+    "colorAsset": "scene:object-04-borf-creature-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_04-borf-creature_gray.webp",
+      "color": "object_04-borf-creature_color.webp"
+    }
+  },
+  {
+    "id": "object-05-chair",
+    "label": "椅子",
+    "english": "Chair",
+    "category": "object",
+    "asset": "scene:object-05-chair-gray",
+    "colorAsset": "scene:object-05-chair-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_05-chair_gray.webp",
+      "color": "object_05-chair_color.webp"
+    }
+  },
+  {
+    "id": "object-06-seesaw",
+    "label": "跷跷板",
+    "english": "Seesaw",
+    "category": "object",
+    "asset": "scene:object-06-seesaw-gray",
+    "colorAsset": "scene:object-06-seesaw-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_06-seesaw_gray.webp",
+      "color": "object_06-seesaw_color.webp"
+    }
+  },
+  {
+    "id": "object-07-bottle",
+    "label": "瓶子",
+    "english": "Bottle",
+    "category": "object",
+    "asset": "scene:object-07-bottle-gray",
+    "colorAsset": "scene:object-07-bottle-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_07-bottle_gray.webp",
+      "color": "object_07-bottle_color.webp"
+    }
+  },
+  {
+    "id": "object-08-skateboard",
+    "label": "滑板",
+    "english": "Skateboard",
+    "category": "object",
+    "asset": "scene:object-08-skateboard-gray",
+    "colorAsset": "scene:object-08-skateboard-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_08-skateboard_gray.webp",
+      "color": "object_08-skateboard_color.webp"
+    }
+  },
+  {
+    "id": "object-09-mug",
+    "label": "咖啡杯",
+    "english": "Mug",
+    "category": "object",
+    "asset": "scene:object-09-mug-gray",
+    "colorAsset": "scene:object-09-mug-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_09-mug_gray.webp",
+      "color": "object_09-mug_color.webp"
+    }
+  },
+  {
+    "id": "object-10-traffic-cone",
+    "label": "路障",
+    "english": "Traffic Cone",
+    "category": "object",
+    "asset": "scene:object-10-traffic-cone-gray",
+    "colorAsset": "scene:object-10-traffic-cone-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_10-traffic-cone_gray.webp",
+      "color": "object_10-traffic-cone_color.webp"
+    }
+  },
+  {
+    "id": "object-11-spring-horse",
+    "label": "摇摇马",
+    "english": "Spring Horse",
+    "category": "object",
+    "asset": "scene:object-11-spring-horse-gray",
+    "colorAsset": "scene:object-11-spring-horse-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_11-spring-horse_gray.webp",
+      "color": "object_11-spring-horse_color.webp"
+    }
+  },
+  {
+    "id": "object-12a-airplane",
+    "label": "飞机",
+    "english": "Airplane",
+    "category": "object",
+    "asset": "scene:object-12a-airplane-gray",
+    "colorAsset": "scene:object-12a-airplane-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12a-airplane_gray.webp",
+      "color": "object_12a-airplane_color.webp"
+    }
+  },
+  {
+    "id": "object-12b-sun",
+    "label": "太阳装置",
+    "english": "Sun",
+    "category": "object",
+    "asset": "scene:object-12b-sun-gray",
+    "colorAsset": "scene:object-12b-sun-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12b-sun_gray.webp",
+      "color": "object_12b-sun_color.webp"
+    }
+  },
+  {
+    "id": "object-12c-banknote",
+    "label": "纸币",
+    "english": "Banknote",
+    "category": "object",
+    "asset": "scene:object-12c-banknote-gray",
+    "colorAsset": "scene:object-12c-banknote-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12c-banknote_gray.webp",
+      "color": "object_12c-banknote_color.webp"
+    }
+  },
+  {
+    "id": "object-12d-mug",
+    "label": "马克杯",
+    "english": "Mug",
+    "category": "object",
+    "asset": "scene:object-12d-mug-gray",
+    "colorAsset": "scene:object-12d-mug-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12d-mug_gray.webp",
+      "color": "object_12d-mug_color.webp"
+    }
+  },
+  {
+    "id": "object-12e-house",
+    "label": "小房子",
+    "english": "House",
+    "category": "object",
+    "asset": "scene:object-12e-house-gray",
+    "colorAsset": "scene:object-12e-house-color",
+    "runtimeTint": true,
+    "files": {
+      "gray": "object_12e-house_gray.webp",
+      "color": "object_12e-house_color.webp"
+    }
+  },
+  {
+    "id": "object-12f-tree",
+    "label": "小树",
+    "english": "Tree",
+    "category": "object",
+    "asset": "scene:object-12f-tree-gray",
+    "colorAsset": "scene:object-12f-tree-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12f-tree_gray.webp",
+      "color": "object_12f-tree_color.webp"
+    }
+  },
+  {
+    "id": "object-12g-icecream",
+    "label": "冰淇淋",
+    "english": "Icecream",
+    "category": "object",
+    "asset": "scene:object-12g-icecream-gray",
+    "colorAsset": "scene:object-12g-icecream-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_12g-icecream_gray.webp",
+      "color": "object_12g-icecream_color.webp"
+    }
+  },
+  {
+    "id": "object-12h-clock",
+    "label": "时钟",
+    "english": "Clock",
+    "category": "object",
+    "asset": "scene:object-12h-clock-gray",
+    "colorAsset": "scene:object-12h-clock-color",
+    "runtimeTint": true,
+    "files": {
+      "gray": "object_12h-clock_gray.webp",
+      "color": "object_12h-clock_color.webp"
+    }
+  },
+  {
+    "id": "object-13-drink",
+    "label": "饮料杯",
+    "english": "Drink",
+    "category": "object",
+    "asset": "scene:object-13-drink-gray",
+    "colorAsset": "scene:object-13-drink-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_13-drink_gray.webp",
+      "color": "object_13-drink_color.webp"
+    }
+  },
+  {
+    "id": "object-14-line-animal",
+    "label": "线条动物",
+    "english": "Line Animal",
+    "category": "object",
+    "asset": "scene:object-14-line-animal-gray",
+    "colorAsset": "scene:object-14-line-animal-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_14-line-animal_gray.webp",
+      "color": "object_14-line-animal_color.webp"
+    }
+  },
+  {
+    "id": "object-15-stone-bollard",
+    "label": "石墩",
+    "english": "Stone Bollard",
+    "category": "object",
+    "asset": "scene:object-15-stone-bollard-gray",
+    "colorAsset": "scene:object-15-stone-bollard-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "object_15-stone-bollard_gray.webp",
+      "color": "object_15-stone-bollard_color.webp"
+    }
+  },
+  {
+    "id": "place-01-market-stall",
+    "label": "市集",
+    "english": "Market Stall",
+    "category": "place",
+    "asset": "scene:place-01-market-stall-gray",
+    "colorAsset": "scene:place-01-market-stall-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_01-market-stall_gray.webp",
+      "color": "place_01-market-stall_color.webp"
+    }
+  },
+  {
+    "id": "place-02-tree-group",
+    "label": "树荫",
+    "english": "Tree Group",
+    "category": "place",
+    "asset": "scene:place-02-tree-group-gray",
+    "colorAsset": "scene:place-02-tree-group-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_02-tree-group_gray.webp",
+      "color": "place_02-tree-group_color.webp"
+    }
+  },
+  {
+    "id": "place-03-bus-shelter",
+    "label": "公交站",
+    "english": "Bus Shelter",
+    "category": "place",
+    "asset": "scene:place-03-bus-shelter-gray",
+    "colorAsset": "scene:place-03-bus-shelter-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_03-bus-shelter_gray.webp",
+      "color": "place_03-bus-shelter_color.webp"
+    }
+  },
+  {
+    "id": "place-04-kiosk",
+    "label": "报刊亭",
+    "english": "Kiosk",
+    "category": "place",
+    "asset": "scene:place-04-kiosk-gray",
+    "colorAsset": "scene:place-04-kiosk-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_04-kiosk_gray.webp",
+      "color": "place_04-kiosk_color.webp"
+    }
+  },
+  {
+    "id": "place-05-fountain",
+    "label": "喷泉广场",
+    "english": "Fountain",
+    "category": "place",
+    "asset": "scene:place-05-fountain-gray",
+    "colorAsset": "scene:place-05-fountain-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_05-fountain_gray.webp",
+      "color": "place_05-fountain_color.webp"
+    }
+  },
+  {
+    "id": "place-06-stairs",
+    "label": "台阶",
+    "english": "Stairs",
+    "category": "place",
+    "asset": "scene:place-06-stairs-gray",
+    "colorAsset": "scene:place-06-stairs-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_06-stairs_gray.webp",
+      "color": "place_06-stairs_color.webp"
+    }
+  },
+  {
+    "id": "place-07-sun",
+    "label": "阳光下",
+    "english": "Sun",
+    "category": "place",
+    "asset": "scene:place-07-sun-gray",
+    "colorAsset": "scene:place-07-sun-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_07-sun_gray.webp",
+      "color": "place_07-sun_color.webp"
+    }
+  },
+  {
+    "id": "place-08-gelateria-sign",
+    "label": "冰淇淋店",
+    "english": "Gelateria Sign",
+    "category": "place",
+    "asset": "scene:place-08-gelateria-sign-gray",
+    "colorAsset": "scene:place-08-gelateria-sign-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_08-gelateria-sign_gray.webp",
+      "color": "place_08-gelateria-sign_color.webp"
+    }
+  },
+  {
+    "id": "place-09-road-sign-cluster",
+    "label": "路口",
+    "english": "Road Sign Cluster",
+    "category": "place",
+    "asset": "scene:place-09-road-sign-cluster-gray",
+    "colorAsset": "scene:place-09-road-sign-cluster-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_09-road-sign-cluster_gray.webp",
+      "color": "place_09-road-sign-cluster_color.webp"
+    }
+  },
+  {
+    "id": "place-10-open-hanging-sign",
+    "label": "店门口",
+    "english": "Open Hanging Sign",
+    "category": "place",
+    "asset": "scene:place-10-open-hanging-sign-gray",
+    "colorAsset": "scene:place-10-open-hanging-sign-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_10-open-hanging-sign_gray.webp",
+      "color": "place_10-open-hanging-sign_color.webp"
+    }
+  },
+  {
+    "id": "place-11-starburst-stand",
+    "label": "街头展台",
+    "english": "Starburst Stand",
+    "category": "place",
+    "asset": "scene:place-11-starburst-stand-gray",
+    "colorAsset": "scene:place-11-starburst-stand-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_11-starburst-stand_gray.webp",
+      "color": "place_11-starburst-stand_color.webp"
+    }
+  },
+  {
+    "id": "place-12-convenience-store",
+    "label": "便利店",
+    "english": "Convenience Store",
+    "category": "place",
+    "asset": "scene:place-12-convenience-store-gray",
+    "colorAsset": "scene:place-12-convenience-store-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_12-convenience-store_gray.webp",
+      "color": "place_12-convenience-store_color.webp"
+    }
+  },
+  {
+    "id": "place-13-storefront",
+    "label": "街边店铺",
+    "english": "Storefront",
+    "category": "place",
+    "asset": "scene:place-13-storefront-gray",
+    "colorAsset": "scene:place-13-storefront-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_13-storefront_gray.webp",
+      "color": "place_13-storefront_color.webp"
+    }
+  },
+  {
+    "id": "place-14-abstract-location",
+    "label": "转角",
+    "english": "Abstract Location",
+    "category": "place",
+    "asset": "scene:place-14-abstract-location-gray",
+    "colorAsset": "scene:place-14-abstract-location-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_14-abstract-location_gray.webp",
+      "color": "place_14-abstract-location_color.webp"
+    }
+  },
+  {
+    "id": "place-15-gas-pump",
+    "label": "加油站",
+    "english": "Gas Pump",
+    "category": "place",
+    "asset": "scene:place-15-gas-pump-gray",
+    "colorAsset": "scene:place-15-gas-pump-color",
+    "runtimeTint": false,
+    "files": {
+      "gray": "place_15-gas-pump_gray.webp",
+      "color": "place_15-gas-pump_color.webp"
+    }
+  }
+]
